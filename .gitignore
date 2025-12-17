@@ -1,0 +1,11 @@
+/detected
+/gui_testers/detected
+/image_collection_scripts/yt_400
+/negatives_only
+/runs
+/test_area
+/train/images
+/train/labels
+/val
+*.cache
+*.png

@@ -1,0 +1,1 @@
+C:/Users/caleb/source/repos/adskip/youtube_skip_button/runs/detect/train13/weights/best.pt
